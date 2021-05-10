@@ -8,6 +8,6 @@
 
 🏆 »┊ Je code habituellement mon bot discorde afin d'ajouter un maximum de fonctionalitée sans payer la moindre somme
 
-![DARK ECNELIS GitHub Stats](https://github-readme-stats.vercel.app/api?username=DARK-ECNELIS&count_private=false&show_icons=true&theme=nightowl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DARK-ECNELIS&show_icons=true&theme=radical)
 
-![Top Languages GitHub upload](https://github-readme-stats.vercel.app/api/top-langs/?username=DARK-ECNELIS&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DARK-ECNELIS&layout=compact&theme=radical)
