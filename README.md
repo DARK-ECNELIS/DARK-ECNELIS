@@ -1,12 +1,4 @@
-**Yep salut je suis DARK ECNELIS**        
-
-*Je suis un petit développeur 👾*
-
-🎮 »┊ Je préférerais coder que jouer, mais si on me parle de OSU! ou de jeux died retry c'est une autre histoire
-
-📚 »┊ Je connais seulement 14 langues de programation, mais je passe une partie de mon temps à faire du NodeJs/JavaScript
-
-🏆 »┊ Je code habituellement mon bot discorde afin d'ajouter un maximum de fonctionalitée sans payer la moindre somme
+![Metrics](https://metrics.lecoq.io/DARK-ECNELIS?template=classic&repositories=100&repositories.batch=100&people=1&achievements=1&activity=1&discussions=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=3&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FGuadeloupe)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DARK-ECNELIS&show_icons=true&theme=radical)
 
